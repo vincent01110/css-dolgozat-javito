@@ -45,3 +45,13 @@
 
 - A harmadik gomb tartalmazza a `comment.svg`-t és a `"275"` szöveget, lekerekített sarkokkal rendelkezzen. (1p)
 - A negyedik gomb tartalmazza a `share.svg` képet és a "Share" szöveget,lekerekített sarkokkal rendelkezzen.(1p)
+
+## 💯 Értékelés
+**Összesen: `38p`**
+| **Pont** | **Jegy** |
+|:--------:|:--------:|
+|   >=34   |     5    |
+|    28    |     4    |
+|    23    |     3    |
+|    15    |     2    |
+|    <15   |     1    |
