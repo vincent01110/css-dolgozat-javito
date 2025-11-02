@@ -29,7 +29,7 @@
 ### 📰 Tartalom (4p)
 - Az elemek vertikálisan oszloposan legyenek középre rendezve (1p)
 - Jelenlen meg egy cím `24px` betűmérettel és félkövéren és a szöveg bal oldalra legyen rendezve (2p)
-- Jelenjen meg a `post-img.jpeg` horizontálisan középen (1p)
+- Jelenjen meg a `post-img.jpeg` horizontálisan középen, lekerekített sarkokkal. (1p)
 
 ### 🕹️ Lábléc (13p)
 - Az elemek bal oldalon kis távolsággal, vertikálisan középen jelenjenek meg. (1p)
